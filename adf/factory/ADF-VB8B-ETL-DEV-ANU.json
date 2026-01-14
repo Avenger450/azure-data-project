@@ -1,0 +1,9 @@
+{
+	"name": "ADF-VB8B-ETL-DEV-ANU",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cb7fccae-ae58-4c4e-bf31-276f8c926b55",
+		"tenantId": "e4282c07-c56b-4a52-aaab-c46e3435b3b8"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"name": "LS_SNOWFLAKE_PARQUT",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SnowflakeV2",
+		"typeProperties": {
+			"authenticationType": "Basic",
+			"accountIdentifier": "PZLHMOD-VB97085",
+			"user": "anuuserpractice",
+			"database": "DBAZURESNOW",
+			"warehouse": "COMPUTE_WH",
+			"useUtcTimestamps": false,
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDFEOTBGNUFFLUUxMUUtNDIxQS1BRTA0LUE4MEQ3RkMyRjgwNV9hODYzNjBjNy0xNTZkLTQ3N2UtOTY5NS03YjY1ODY5OTNmMDUiDQp9"
+		},
+		"version": "1.1"
+	}
+}
