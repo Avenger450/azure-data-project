@@ -1,0 +1,9 @@
+{
+	"name": "adf-project-back-up",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "05c3ea45-831c-4079-aa2c-b199bfab26e2",
+		"tenantId": "e4282c07-c56b-4a52-aaab-c46e3435b3b8"
+	}
+}
